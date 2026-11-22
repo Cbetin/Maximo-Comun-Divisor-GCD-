@@ -13,6 +13,3 @@ En Linux con SystemC instalado y GTKWave:
 
 Debe existir /ruta/de/instalacion/include/systemc.h y la biblioteca
 libsystemc en lib/ o lib64/. La simulacion crea gcd.vcd.
-
-PENDIENTE: programa del GCD a nivel de instrucciones en MIPS o
-RISC-V, solicitado en la parte 3 del enunciado.
